@@ -35,9 +35,9 @@ Missão🎯
 
 
 
-Ferramentas Utilizadas
-Ferramentas téncologicas utilizadas para executar a coleta e o processamento de dados:
-1 - Phyton
-2 - Google Colab
-3 - GitHub
-4 - PowerBi
+Ferramentas Utilizadas</td>🔦
+Ferramentas téncologicas utilizadas para executar a coleta e o processamento de dados:</td>
+1 - Phyton</td>
+2 - Google Colab</td>
+3 - GitHub</td>
+4 - PowerBi</td>
