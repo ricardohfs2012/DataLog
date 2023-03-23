@@ -4,8 +4,7 @@ DataLog - Consultoria Logística
 <table>
   <tr>
    <td>Fhelipe Siqueira</td>
-   <td>Ricardo Freitas</td>
-   <td>Daniel Vidal</td>
+    <td>Ricardo Freitas</td>
    <td>Felipe Leão</td>
    <td>Gabriella Lima</td>
    <td>Rafael Lima</td>
