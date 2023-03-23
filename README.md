@@ -35,7 +35,7 @@ Missão🎯
 
 
 
-Ferramentas Utilizadas</td>🔦</table>
+Ferramentas Utilizadas</td>🔦</tr>
 Ferramentas téncologicas utilizadas para executar a coleta e o processamento de dados:</td>
 1 - Phyton</td>
 2 - Google Colab</td>
