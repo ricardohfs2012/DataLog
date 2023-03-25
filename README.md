@@ -31,9 +31,7 @@
   </tr>
  
  </table>
-  
-  <h1> Site da Empresa DataLog</h1>
-   <td><a href="https://sites.google.com/view/api-datalog/p%C3%A1gina-inicial"><img src="https://user-images.githubusercontent.com/114450758/227745483-47273a00-7294-41db-b748-2bc6d2a8c478.jpeg" width="180px"> </a></td>
+ 
   
 <h1> 🎯Missão </h1>
 
@@ -43,7 +41,22 @@ Avaliar o transporte ferroviário de cargas identificando o impacto de variávei
 
 <h1>🔦Ferramentas Utilizadas</h1>
 Ferramentas téncologicas utilizadas para executar a coleta e o processamento de dados:</td>
-1 - Phyton</td>
-2 - Google Colab</td>
-3 - GitHub</td>
-4 - PowerBi</td>
+  
+1. Phyton
+A principal tecnologia que será utilizada para a automatização da coleta.
+  
+2. Google Colab
+Serviço de armazenamento em nuvem de notebooks voltados à criação e execução de códigos em Python.
+  
+3. GitHub
+Tem a finalidade de acompanhar o desenvolvimento do projeto, onde conterá os arquivos utilizados para o desenvolvimento.
+
+4. PowerBi
+Ferramenta utilizada para auxiliar na visualização dos dados de forma interativa e coerente.
+
+5. 5W2H
+Com a finalidade de facilitar a visão das ideias a serem trabalhadas no projeto. Auxilia na comunicação com o cliente, saber o que o mesmo deseja para o projeto.
+  
+  
+   <h1> Site da Empresa DataLog</h1>
+   <td><a href="https://sites.google.com/view/api-datalog/p%C3%A1gina-inicial"><img src="https://user-images.githubusercontent.com/114450758/227745483-47273a00-7294-41db-b748-2bc6d2a8c478.jpeg" width="180px"> </a></td>
