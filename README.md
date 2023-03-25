@@ -31,6 +31,10 @@
   </tr>
  
  </table>
+  
+  <h1> Site da Empresa DataLog</h1>
+   <td><a href="https://sites.google.com/view/api-datalog/p%C3%A1gina-inicial"><img src="https://user-images.githubusercontent.com/114450758/227745483-47273a00-7294-41db-b748-2bc6d2a8c478.jpeg" width="180px"> </a></td>
+  
 <h1> 🎯Missão </h1>
 
 Avaliar o transporte ferroviário de cargas identificando o impacto de variáveis econômicas na movimentação mensal.
