@@ -9,7 +9,7 @@ DataLog - Consultoria Logística
    <td>Gabriella Lima</td>
    <td>Rafael Lima</td>
    <td>Thiago Pereira</td>
-    <td>Mariana Silva</td>
+    <td>Mariana Oliveira</td>
  </tr>
  <tr>
    <td>Product Owner</td>
