@@ -37,7 +37,7 @@ Avaliar o transporte ferroviário de cargas identificando o impacto de variávei
 
 
 
-<h1>🔦Ferramentas Utilizadas</td>🔦</tr></h1>
+<h1>🔦Ferramentas Utilizadas</h1>
 Ferramentas téncologicas utilizadas para executar a coleta e o processamento de dados:</td>
 1 - Phyton</td>
 2 - Google Colab</td>
