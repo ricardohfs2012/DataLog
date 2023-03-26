@@ -53,6 +53,10 @@ Sprint 3: 15/05/2023  <img src="https://user-images.githubusercontent.com/114450
 
 Sprint 4: 05/06/2023  <img src="https://user-images.githubusercontent.com/114450758/227749336-9e7757ef-5bca-4c6a-94ff-b18137b0199d.gif" width="20px"> </a> 
 
+  
+<img src="https://user-images.githubusercontent.com/114450758/227749575-f3ac8558-d35f-4a5b-b09b-537fad7f25be.jpeg" width="1200px"> </a>
+  
+  
 <h1>🛠️Ferramentas Utilizadas</h1>
 
 Ferramentas téncologicas utilizadas para executar a coleta e o processamento de dados:</td>
