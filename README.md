@@ -3,8 +3,8 @@
 
 <table>
   <tr>
-   <td>Ricardo Freita</td>
-    <td>Fhelipe Siqueira</td>
+   <td>Ricardo Freitas</td>
+   <td>Fhelipe Siqueira</td>
    <td>Felipe Leão</td>
    <td>Gabriella Lima</td>
    <td>Mariana Oliveira</td>
@@ -47,11 +47,11 @@ O modelo a ser utilizado foi o modelo Scrum, onde são realizadas entregas denom
 
 Sprint 1: 03/04/2023  <a href="https://fatecspgov-my.sharepoint.com/:f:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/API%20AGRO/2%20semestre/Sprint%201?csf=1&web=1&e=IOBDut"><img src="https://user-images.githubusercontent.com/114450758/204683420-761be954-011f-4438-ace9-35381fa3009c.png" width="20px"> </a>
 
-Sprint 2: 24/04/2023 <img src="https://user-images.githubusercontent.com/114450758/227748871-7f3a2abc-ab79-478e-a85e-f7fe3eb76bd1.png" width="20px"> </a> 
+Sprint 2: 24/04/2023 <img src="https://user-images.githubusercontent.com/114450758/227749336-9e7757ef-5bca-4c6a-94ff-b18137b0199d.gif" width="20px"> </a> 
 
-Sprint 3: 15/05/2023  <img src="https://user-images.githubusercontent.com/114450758/227748871-7f3a2abc-ab79-478e-a85e-f7fe3eb76bd1.png" width="20px"> </a> 
+Sprint 3: 15/05/2023  <img src="https://user-images.githubusercontent.com/114450758/227749336-9e7757ef-5bca-4c6a-94ff-b18137b0199d.gif" width="20px"> </a> 
 
-Sprint 4: 05/06/2023  <img src="https://user-images.githubusercontent.com/114450758/227748871-7f3a2abc-ab79-478e-a85e-f7fe3eb76bd1.png" width="20px"> </a> 
+Sprint 4: 05/06/2023  <img src="https://user-images.githubusercontent.com/114450758/227749336-9e7757ef-5bca-4c6a-94ff-b18137b0199d.gif" width="20px"> </a> 
 
 <h1>🛠️Ferramentas Utilizadas</h1>
 
