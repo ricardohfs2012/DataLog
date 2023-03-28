@@ -24,10 +24,10 @@
   <td><a href="https://www.linkedin.com/in/ricardo-freitas-959663174"><img src="https://user-images.githubusercontent.com/114450758/227744653-97acdb39-7778-48c6-bbb5-a9bb08a7f8d1.jpeg" width="500px"> </a></td>
   <td><a href="https://www.linkedin.com/in/fhelipesiqueira"><img src="https://user-images.githubusercontent.com/114450758/227744710-b9b475d4-c8a5-4b2f-8fa6-77049f0160ec.jpeg" width=500px"> </a> </td>
    <td><a href="https://www.linkedin.com/in/felipe-le%C3%A3o-ab11841b6"><img src="https://user-images.githubusercontent.com/114450758/227744624-308369f7-acca-4f8e-bd43-103495fd202b.jpeg" width="500px"> </a></td>
-   <td><a href="https://www.linkedin.com/in/gabriella-fernanda-5473881a2"><img src="https://user-images.githubusercontent.com/114450758/204678438-a7581413-d6ea-48fb-ab1c-7813dc6f8f1c.jpg" width="500px"> </a></td>
-   <td><a href="https://www.linkedin.com/in/mariana-oliveira-b35a59235"><img src="https://user-images.githubusercontent.com/114450758/227745093-b63d3ef5-54dd-48fe-b1a4-60100809598a.jpeg" width="500px"> </a></td>
-   <td><a href="https://www.linkedin.com/in/rafael-lima-002022175"><img src="https://user-images.githubusercontent.com/114450758/227744440-bf60e5bb-7819-489d-8c4d-3c68cf4a6427.jpeg" width="500"> </a></td>
-   <td><a href="https://www.linkedin.com/in/thiago-pereira-594683174"><img src="https://user-images.githubusercontent.com/114450758/204685177-fb562021-6f64-49a1-95d2-285ab870b627.jpg" width="500px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/gabriella-fernanda-5473881a2"><img src="https://user-images.githubusercontent.com/114450758/228092526-ec383129-0f30-48ab-a11d-058e593160e0.jpeg" width="500px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/mariana-oliveira-b35a59235"><img src="https://user-images.githubusercontent.com/114450758/228092707-9b919e45-a0b6-4004-b752-2a77548cf5b2.jpeg" width="500px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/rafael-lima-002022175"><img src="https://user-images.githubusercontent.com/114450758/227744440-bf60e5bb-7819-489d-8c4d-3c68cf4a6427.jpeg" width="500px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/thiago-pereira-594683174"><img src="https://user-images.githubusercontent.com/114450758/228092207-040a3256-10d5-493d-a811-36459ceee8ff.jpeg" width="500px"> </a></td>
  
  </table>
  
