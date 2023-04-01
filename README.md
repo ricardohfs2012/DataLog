@@ -20,14 +20,23 @@
    <td>Scrum Team</td>
   </tr>
   </tr>
-  <td><a href="https://www.linkedin.com/in/ricardo-freitas-959663174"><img src="https://user-images.githubusercontent.com/114450758/227744653-97acdb39-7778-48c6-bbb5-a9bb08a7f8d1.jpeg" width="500px"> </a></td>
-  <td><a href="https://www.linkedin.com/in/fhelipesiqueira"><img src="https://user-images.githubusercontent.com/114450758/227744710-b9b475d4-c8a5-4b2f-8fa6-77049f0160ec.jpeg" width=500px"> </a> </td>
-   <td><a href="https://www.linkedin.com/in/felipe-le%C3%A3o-ab11841b6"><img src="https://user-images.githubusercontent.com/114450758/227744624-308369f7-acca-4f8e-bd43-103495fd202b.jpeg" width="500px"> </a></td>
-   <td><a href="https://www.linkedin.com/in/gabriella-fernanda-5473881a2"><img src="https://user-images.githubusercontent.com/114450758/228092526-ec383129-0f30-48ab-a11d-058e593160e0.jpeg" width="500px"> </a></td>
-   <td><a href="https://www.linkedin.com/in/mariana-oliveira-b35a59235"><img src="https://user-images.githubusercontent.com/114450758/228092707-9b919e45-a0b6-4004-b752-2a77548cf5b2.jpeg" width="500px"> </a></td>
-   <td><a href="https://www.linkedin.com/in/rafael-lima-002022175"><img src="https://user-images.githubusercontent.com/114450758/227744440-bf60e5bb-7819-489d-8c4d-3c68cf4a6427.jpeg" width="500px"> </a></td>
-   <td><a href="https://www.linkedin.com/in/thiago-pereira-594683174"><img src="https://user-images.githubusercontent.com/114450758/228092207-040a3256-10d5-493d-a811-36459ceee8ff.jpeg" width="500px"> </a></td>
- 
+  <td><a href="https://www.linkedin.com/in/ricardo-freitas-959663174"><img src="https://user-images.githubusercontent.com/114450758/229310445-e3897993-8d46-497d-a947-0fc690cabc6d.jpeg" width="850px"> </a></td>
+  <td><a href="https://www.linkedin.com/in/fhelipesiqueira"><img src="https://user-images.githubusercontent.com/114450758/229310480-eddbbb12-86aa-4969-b789-dae41552bb72.jpeg" width=850px"> </a> </td>
+   <td><a href="https://www.linkedin.com/in/felipe-le%C3%A3o-ab11841b6"><img src="https://user-images.githubusercontent.com/114450758/229310410-1fc3dd58-9519-4ca7-bf4f-4a08652eaa2e.jpeg" width="1000px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/gabriella-fernanda-5473881a2"><img src="https://user-images.githubusercontent.com/114450758/229310130-5099f2a0-daea-46b0-8ad5-c2c4e818c54f.jpeg" width="800px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/mariana-oliveira-b35a59235"><img src="https://user-images.githubusercontent.com/114450758/229310275-b5b5da41-4b35-4ffa-83d9-f81836996aa9.jpeg" width="850px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/rafael-lima-002022175"><img src="https://user-images.githubusercontent.com/114450758/229310369-b004ff95-c51b-442f-b8df-6a12455b9975.jpeg" width="1000px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/thiago-pereira-594683174"><img src="https://user-images.githubusercontent.com/114450758/229310172-af1d681a-cbee-4de8-8f43-faacc8818ccc.jpeg" width="1000px"> </a></td>
+ <tr>
+<td><a href="https://www.linkedin.com/in/ricardo-freitas-959663174"><img src="https://user-images.githubusercontent.com/114450758/229311157-5f5b4c3f-4de8-441b-a5fc-3c6590b845ca.jpg" width="50px"> </a></td>
+  <td><a href="https://www.linkedin.com/in/fhelipesiqueira"><img src="https://user-images.githubusercontent.com/114450758/229311157-5f5b4c3f-4de8-441b-a5fc-3c6590b845ca.jpg" width="50px"> </a> </td>
+   <td><a href="https://www.linkedin.com/in/felipe-le%C3%A3o-ab11841b6"><img src="https://user-images.githubusercontent.com/114450758/229311157-5f5b4c3f-4de8-441b-a5fc-3c6590b845ca.jpg" width="50px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/gabriella-fernanda-5473881a2"><img src="https://user-images.githubusercontent.com/114450758/229311157-5f5b4c3f-4de8-441b-a5fc-3c6590b845ca.jpg" width="50px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/mariana-oliveira-b35a59235"><img src="https://user-images.githubusercontent.com/114450758/229311157-5f5b4c3f-4de8-441b-a5fc-3c6590b845ca.jpg" width="50px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/rafael-lima-002022175"><img src="https://user-images.githubusercontent.com/114450758/229311157-5f5b4c3f-4de8-441b-a5fc-3c6590b845ca.jpg" width="50px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/thiago-pereira-594683174"><img src="https://user-images.githubusercontent.com/114450758/229311157-5f5b4c3f-4de8-441b-a5fc-3c6590b845ca.jpg" width="50px"> </a></td>
+   </tr>
+   
  </table>
  
    <h2> One drive com os arquivos levantados para o desenvolvimento do projeto:</h2>
@@ -86,7 +95,7 @@ Uma das principais tecnologias que seram utilizadas para a elaboração de ferra
   
   <h2>Acesse o Power BI do projeto aqui:👇</h2>
   
-<a href="https://fatecspgov-my.sharepoint.com/:f:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/API%20AGRO/2%20semestre?csf=1&web=1&e=E1kT4r"><img src="https://user-images.githubusercontent.com/114450758/228097782-549fb599-fc07-48a6-bec1-06d053cc3561.png" width="100px">
+<a href="https://app.powerbi.com/links/2dKp_Ue5uD?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare"><img src="https://user-images.githubusercontent.com/114450758/229310678-108e1329-f006-4bcb-94fd-242b3971fc1b.jpeg" width="1200px">
   
    <h2> Site da Empresa DataLog</h2>
-   <td><a href="https://sites.google.com/view/api-datalog/p%C3%A1gina-inicial"><img src="https://user-images.githubusercontent.com/114450758/227745483-47273a00-7294-41db-b748-2bc6d2a8c478.jpeg" width="180px"> </a></td>
+   <td><a href="https://sites.google.com/view/api-datalog/p%C3%A1gina-inicial"><img src="https://user-images.githubusercontent.com/114450758/227745483-47273a00-7294-41db-b748-2bc6d2a8c478.jpeg" width="300px"> </a></td>
