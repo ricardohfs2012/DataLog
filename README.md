@@ -91,7 +91,7 @@ Com a finalidade de facilitar a visão das ideias a serem trabalhadas no projeto
   
 **6. Power BI**
 
-Uma das principais tecnologias que seram utilizadas para a elaboração de ferramentas interativas e que permite a visualização dos dados de forma dinâmica.
+Uma das principais tecnologias que serão utilizadas para a elaboração de ferramentas interativas e que permite a visualização dos dados de forma dinâmica.
   
   <h2>Acesse o Power BI do projeto aqui:👇</h2>
   
