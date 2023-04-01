@@ -67,7 +67,7 @@ Sprint 4: 05/06/2023  <img src="https://user-images.githubusercontent.com/114450
   
 <h2>🛠️Ferramentas Utilizadas</h2>
 
-Ferramentas téncologicas utilizadas para executar a coleta e o processamento de dados:</td>
+Ferramentas tecnológicas utilizadas para executar a coleta e o processamento de dados:</td>
   
 **1. Phyton:**
 
