@@ -96,6 +96,10 @@ Uma das principais tecnologias que serão utilizadas para a elaboração de ferr
   <h2>Acesse o Power BI do projeto aqui:👇</h2>
   
 <a href="https://app.powerbi.com/links/2dKp_Ue5uD?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare"><img src="https://user-images.githubusercontent.com/114450758/229310678-108e1329-f006-4bcb-94fd-242b3971fc1b.jpeg" width="1200px">
+
+ <h2>Acesse a apresentação do projeto aqui:👇</h2>
+  
+<a href="https://www.canva.com/design/DAFe-ZkQQNk/i-KspzN2ezW-EjxIPaRlMA/view?utm_content=DAFe-ZkQQNk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://user-images.githubusercontent.com/114450758/229384784-66d01f92-2a0a-4e99-b3aa-0fee8e4c8aff.jpeg" width="1200px">
   
    <h2> Site da Empresa DataLog</h2>
    <td><a href="https://sites.google.com/view/api-datalog/p%C3%A1gina-inicial"><img src="https://user-images.githubusercontent.com/114450758/227745483-47273a00-7294-41db-b748-2bc6d2a8c478.jpeg" width="300px"> </a></td>
