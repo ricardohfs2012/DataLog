@@ -69,7 +69,7 @@ Sprint 4: 14/06/2023 <a href="https://fatecspgov-my.sharepoint.com/:f:/r/persona
 
 Ferramentas tecnológicas utilizadas para executar a coleta e o processamento de dados:</td>
   
-**1. Phyton:**
+**1. Python:**
 
 A principal tecnologia que será utilizada para a automatização da coleta.
   
